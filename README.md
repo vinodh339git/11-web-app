@@ -9,5 +9,4 @@
 * _HTML_
 * _CSS_
 * _JS_
-* _REACT
-_
+* _REACT_
